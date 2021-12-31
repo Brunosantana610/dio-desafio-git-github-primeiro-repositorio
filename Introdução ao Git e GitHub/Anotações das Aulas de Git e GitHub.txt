@@ -1,0 +1,9 @@
+Link para Download do Git: https://git-scm.com/downloads
+
+Link pdf sobre o Git (pt-br): https://github.com/progit/progit2-pt-br/releases/download/2.1.45/progit.pdf
+
+Link pdf sobre o Git (english): https://github.com/progit/progit2/releases/download/2.1.336/progit.pdf
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
